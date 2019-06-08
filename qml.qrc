@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Popups/NotificationPanel.qml</file>
+        <file>qml/SidePanels/SidePanel.qml</file>
+        <file>qml/SidePanels/SettingsPanel.qml</file>
+        <file>qml/CustomComponents/RImageExpandingButton.qml</file>
+        <file>qml/CustomComponents/RImageButton.qml</file>
+        <file>qml/CustomComponents/RCheckBox.qml</file>
+        <file>qml/CustomComponents/RDialogBox.qml</file>
+        <file>qml/CustomComponents/RMenu.qml</file>
+        <file>qml/CustomComponents/RScaleControlSpinBox.qml</file>
+        <file>qml/CustomComponents/RTextButton.qml</file>
+        <file>qml/CustomComponents/RComboBox.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/AppDetails/AppDetailsPage.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/Home/HomeTab.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/Latest/LatestTab.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/Trending/TrendingTab.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/SearchResult/SearchResultTab.qml</file>
+        <file>qml/CustomComponents/RWindowControlBar.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/AppDetails/OverviewTab.qml</file>
+        <file>qml/Tabs/Tab1_Library/ChildTabs/AppDetails/InstallationCandidateComboBox.qml</file>
+        <file>qml/Tabs/Tab1_Library/LibraryTab.qml</file>
+        <file>qml/Tabs/Tab2_AllApps/AllAppsTab.qml</file>
+        <file>qml/Tabs/Tab2_AllApps/ChildTabs/OngoingProcesses/OngoingProcessesTab.qml</file>
+        <file>qml/Tabs/Tab2_AllApps/ChildTabs/PreviouslyInstalled/PreviouslyInstalledTab.qml</file>
+        <file>qml/Popups/ErrorMessage.qml</file>
+        <file>qml/Popups/RequestMessage.qml</file>
+        <file>qml/Popups/StatusMessage.qml</file>
+    </qresource>
+</RCC>
