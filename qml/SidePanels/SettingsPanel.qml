@@ -388,7 +388,7 @@ Popup{
                                     anchors.horizontalCenter: parent.horizontalCenter
                                 }
                                 Text {
-                                    text: qsTr("Version 1.2")
+                                    text: qsTr("Version 0.4")
                                     font.pointSize: 10
                                     color: rFileSystem.IconColor
                                     anchors.horizontalCenter: parent.horizontalCenter
